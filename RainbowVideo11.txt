@@ -6,3 +6,4 @@ G
 B
 P
 Pink
+Rainbow
